@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 11 19:13:42 2019
-
-@author: dmcut
-"""
 
 import torch.nn as nn
 import torch.nn.functional as f
