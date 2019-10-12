@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 12 12:10:10 2019
-
-@author: dmcut
-"""
 
 import torch.optim as opt
 import torch.nn.functional as f
