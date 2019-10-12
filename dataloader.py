@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 11 16:01:00 2019
-
-@author: dmcut
-"""
 
 import torch
 import torchvision.datasets as d
